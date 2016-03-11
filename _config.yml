@@ -1,0 +1,28 @@
+name: Solve Camp
+favicon: null
+layout_spectrum: 0.16910292650572956
+typography_spectrum: 0.8614396147895604
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7184248468838632
+  lightness: 0.24693417828530073
+  saturation: 0.3993432924617082
+  rhythmicContrast: 0.12790478859096766
+purpose: []
